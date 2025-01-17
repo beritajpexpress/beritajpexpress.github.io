@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://beritajpexpress.github.io/sitemap.xml
